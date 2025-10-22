@@ -5,7 +5,7 @@ return [
         'host' => 'db',
         'port' => 3306,
         'database' => 'testingmango',
-        'username' => 'uptura-be',
+        'username' => 'upturabe',
         'password' => '121435453',
         'charset' => 'utf8mb4'
     ],
