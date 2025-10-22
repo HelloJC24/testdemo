@@ -2,11 +2,11 @@
 
 return [
     'database' => [
-        'host' => 'localhost',
+        'host' => 'devopstest-testdb-ngxjkw',
         'port' => 3306,
-        'database' => 'demo',
-        'username' => 'root',
-        'password' => '',
+        'database' => 'testingmango',
+        'username' => 'uptura-be',
+        'password' => '121435453',
         'charset' => 'utf8mb4'
     ],
     'jwt' => [
