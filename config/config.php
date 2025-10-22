@@ -2,7 +2,7 @@
 
 return [
     'database' => [
-        'host' => 'devopstest-testdb-ngxjkw',
+        'host' => 'db',
         'port' => 3306,
         'database' => 'testingmango',
         'username' => 'uptura-be',
