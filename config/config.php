@@ -2,7 +2,7 @@
 
 return [
     'database' => [
-        'host' => 'db',
+        'host' => 'db2',
         'port' => 3306,
         'database' => 'testingmango',
         'username' => 'upturabe',
